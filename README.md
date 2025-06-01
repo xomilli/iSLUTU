@@ -1,4 +1,4 @@
-iamazonu/
+sklutu/
 ├── backend/
 │   ├── models/
 │   ├── routes/
