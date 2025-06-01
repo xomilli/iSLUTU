@@ -1,0 +1,11 @@
+classified-ads-platform/
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   └── server.js
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   └── package.json
+├── README.md
